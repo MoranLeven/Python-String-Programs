@@ -1,14 +1,16 @@
 #find length of string in python
 # four ways to solve the problemo
-#way 1
+#way uno
 def strlen(string : str)-> str:
     return len(string)
-
+#way dos
 def strlen2(string: str) -> str:
     string_length = 0
     for i in string:
         string_length+=1
     return string_length
+    
+#way tres
 #this one is bit tricky using while loop and slicing
 def strlen3(string):
     str_count = 0
@@ -17,6 +19,7 @@ def strlen3(string):
     return str_count
 
 
+#way cuatro
 #this is super tricky so grok it carefully
 #how this work
 #here we use "".join() method

@@ -8,6 +8,7 @@
 
 [3. 4 Ways to find string length](https://github.com/MoranLeven/Python-String-Programs/blob/992ae925ba70327a9da7ca1c1c25a951d2f2cabf/string3.py)
 
+[4. calculate the length of string avoiding the spaces](https://github.com/MoranLeven/Python-String-Programs/blob/main/string4.py)
 
-
+[5. Print even length words from stirng](https://github.com/MoranLeven/Python-String-Programs/blob/main/String5.py)
 

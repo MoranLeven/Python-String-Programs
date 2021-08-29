@@ -12,3 +12,4 @@
 
 [5. Print even length words from stirng](https://github.com/MoranLeven/Python-String-Programs/blob/main/String5.py)
 
+[6. Half uppercase string](https://github.com/MoranLeven/Python-String-Programs/blob/main/String6.py)

@@ -14,8 +14,7 @@
 
 [6. Half uppercase string](https://github.com/MoranLeven/Python-String-Programs/blob/main/String6.py)
 
-<<<<<<< HEAD
+
 [7. 41 strings problemos en python : Click me👆🥺<--👆](https://github.com/MoranLeven/Python-String-Programs/blob/main/41StringSimpleProblemos.py)
-=======
-[7. 41 strings problemos en python : Click me👆🥺<--👆](https://github.com/MoranLeven/Python-String-Programs/blob/main/41STringSimpleProblemos.py)
->>>>>>> 8a1a3e0e22fa28dac915e1984e1af0b78bf79b89
+
+

@@ -14,7 +14,10 @@
 
 [6. Half uppercase string](https://github.com/MoranLeven/Python-String-Programs/blob/main/String6.py)
 
+[7. uno and ultimo letter to upper case of stirng](https://github.com/MoranLeven/Python-String-Programs/blob/main/String7.py)
 
-[7. 41 strings problemos en python : Click me👆🥺<--👆](https://github.com/MoranLeven/Python-String-Programs/blob/main/41StringSimpleProblemos.py)
+
+## Miscellaneous 👇👇👇
+[41 strings problemos en python : Click me👆🥺<--👆](https://github.com/MoranLeven/Python-String-Programs/blob/main/41StringSimpleProblemos.py)
 
 

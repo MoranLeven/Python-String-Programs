@@ -10,6 +10,8 @@
 
 [4. calculate the length of string avoiding the spaces](https://github.com/MoranLeven/Python-String-Programs/blob/main/string4.py)
 
-[5. Print even length words from stirng](https://github.com/MoranLeven/Python-String-Programs/blob/main/String5.py)
+[5. Print even length words from string](https://github.com/MoranLeven/Python-String-Programs/blob/main/String5.py)
 
 [6. Half uppercase string](https://github.com/MoranLeven/Python-String-Programs/blob/main/String6.py)
+
+[7. 41 strings problemos en python : Click me👆🥺<--👆](https://github.com/MoranLeven/Python-String-Programs/blob/main/41STringSimpleProblemos.py)

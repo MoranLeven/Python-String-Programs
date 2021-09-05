@@ -16,6 +16,7 @@
 
 [7. uno and ultimo letter to upper case of stirng](https://github.com/MoranLeven/Python-String-Programs/blob/main/String7.py)
 
+[8. Program to check either string contains str char and numbers or not](https://github.com/MoranLeven/Python-String-Programs/blob/main/String8.py)
 
 ## Miscellaneous 👇👇👇
 [41 strings problemos en python : Click me👆🥺<--👆](https://github.com/MoranLeven/Python-String-Programs/blob/main/41StringSimpleProblemos.py)

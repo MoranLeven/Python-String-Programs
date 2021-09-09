@@ -18,6 +18,8 @@
 
 [8. Program to check either string contains str char and numbers or not](https://github.com/MoranLeven/Python-String-Programs/blob/main/String8.py)
 
+[9. Program to accept only those string which contain all vowels and string case is partially dependent](https://github.com/MoranLeven/Python-String-Programs/blob/main/String9.py)
+
 ## Miscellaneous 👇👇👇
 [41 strings problemos en python : Click me👆🥺<--👆](https://github.com/MoranLeven/Python-String-Programs/blob/main/41StringSimpleProblemos.py)
 
